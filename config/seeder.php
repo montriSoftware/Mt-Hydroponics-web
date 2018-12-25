@@ -15,4 +15,25 @@ return [
 
     ],
 
+    'vegetables' => [
+        [
+            'name' => 'Fillice Iceburg Lettuce'
+        ],
+        [
+            'name' => 'GreenCross'
+        ],
+        [
+            'name' => 'Butterhead'
+        ],
+        [
+            'name' => 'Green Oak Lettuce'
+        ],
+        [
+            'name' => 'Red Oak Lettuce'
+        ],
+        [
+            'name' => 'Red Coral'
+        ],
+    ],
+
 ];
